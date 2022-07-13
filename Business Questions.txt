@@ -1,0 +1,8 @@
+
++ Which Category is Best Selling and Most Profitable?
++ What are the Best Selling and Most Profitable Sub-Category?
++ Which is the Top Selling Sub-Category?
++ Which Customer Segment Is Most Profitable?
++ Which is the Preferred Ship Mode?
++ Which Region Is the Most Profitable?
++ Which City has the Highest Number of Sales?
