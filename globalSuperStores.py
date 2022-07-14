@@ -31,7 +31,7 @@ app.layout = html.Div(children=[
             {'label': 'City with highest number of sales', 'value': 'City'}          
     ],
     value = "Category",
-      multi = False,
+      
       clearable = True,
       style = {"width": "50%"}
     ),
